@@ -1,0 +1,6 @@
+people_id,first_name,middle_name,last_name,dob,email_id,phone_num
+1,Person,,A,2/25/1994,Person.A@email.com,9999999999
+2,Person,,B,2/25/1995,Person.B@email.com,9999999998
+3,Person,,C,4/25/1995,Person.C@email.com,9999999988
+4,Person,,D,4/30/1995,Person.D@email.com,9999999888
+5,Person,,E,4/30/1999,Person.E@email.com,9999998888

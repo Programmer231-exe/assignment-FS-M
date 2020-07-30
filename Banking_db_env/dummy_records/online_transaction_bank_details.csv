@@ -1,0 +1,6 @@
+bank_id,bank_name,branch_name,branch_location,district,state,country,pincode
+1,AAA,City 1,City 1,District 1,State 1,Country 1,111111
+2,BBB,City 1,City 1,District 1,State 1,Country 1,111111
+3,CCC,City 3,City 3,District 3,State 3,Country 3,111122
+4,DDD,City 4,City 4,District 4,State 4,Country 4,111122
+5,AAA,City 5,City 5,District 5,State 5,Country 5,111122
